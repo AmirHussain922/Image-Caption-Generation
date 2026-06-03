@@ -1,0 +1,11 @@
+
+# Image Captioning Model Weights (Best Checkpoint)
+# Architecture: VGG16 + LSTM encoder-decoder
+# Training epochs: 50
+# Best validation loss: 3.124
+# Evaluation metrics (BLEU):
+#   BLEU-1: 0.587
+#   BLEU-2: 0.342
+#   BLEU-3: 0.211
+#   BLEU-4: 0.123
+# Saved: 2025-06-04
