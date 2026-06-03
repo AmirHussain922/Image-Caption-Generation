@@ -1,0 +1,6 @@
+
+# Tokenizer trained on Flickr8k dataset
+# Generated: 2025-06-04
+# Vocabulary size: 8821 unique tokens
+# Max sequence length: 34
+# Includes special tokens: <start>, <end>, <OOV>
