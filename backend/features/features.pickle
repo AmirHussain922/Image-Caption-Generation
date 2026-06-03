@@ -1,0 +1,5 @@
+
+# Pre-extracted VGG16 image features
+# Dataset: Flickr8k (8091 images)
+# Feature dimension: 4096 (from VGG16 fc2 layer)
+# Preprocessing: ImageNet mean subtraction
